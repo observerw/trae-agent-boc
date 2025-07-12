@@ -1,0 +1,1 @@
+docker build -t trae-agent-boc:latest -f Dockerfile.boc .
